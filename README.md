@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Selahattin Tunç Yardımcı.
--  I’m second grade computer science bachelors degree student.
-- 🌱 I’m currently learning spring boot, spring security, javascript, react, material ui.
+-  I'm a third-year computer science bachelor's degree student.
+- 🌱 I’m currently learning Spring Boot, spring security, javascript, react, material UI and machine learning.
 - 📫 You can reach me with my email "selahattinyardmc@gmail.com".
 
 <!---
